@@ -2,6 +2,10 @@
 
 Student-friendly Postgres labs with instant feedback and autograding.
 
+## Features
+
+- AI-powered SQL query suggestions directly in the lab UI for smarter, faster learning.
+
 ## Tech Stack
 
 - [Next.js](https://nextjs.org) - React framework
